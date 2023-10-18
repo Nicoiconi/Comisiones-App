@@ -1,0 +1,23 @@
+.lista-productos-pedido {
+  border: 1px solid black;
+}
+
+.input-cantidad-productos-pedido {
+  width: 70px;
+}
+
+.input-precio-productos-cantidad {
+  width: 60px;
+}
+
+.error-cantidad{
+  background-color: red;
+}
+
+.input-porcentaje-referido{
+  width: 70px;
+}
+
+.input-comision-referido{
+  width: 70px;
+}
